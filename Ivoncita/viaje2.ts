@@ -1,11 +1,4 @@
-interface IViaje2025
-{
-    dinero : number;
-    personasEnLosCavazos : number;
-    acompañante: string;
-    dineroExtra :number;
-}
-
+import { IViaje2025 } from "./IViaje2024";
 var miViaje =  <IViaje2025>{};
 
 miViaje.acompañante = "Kiwi";

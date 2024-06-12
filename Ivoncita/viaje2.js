@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var miViaje = {};
 miViaje.acompañante = "Kiwi";
 miViaje.dinero = 50000;
